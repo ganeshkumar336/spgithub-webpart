@@ -23,7 +23,7 @@ export default class SpgithubWpWebPart extends BaseClientSideWebPart<ISpgithubWp
             <div class="${ styles.column }">
               <span class="${ styles.title }">Welcome to Spfx using Azure Devops</span>
               <p class="${ styles.subTitle }">Hello Ganesh welcome to Devops</p>
-              <p class="${ styles.subTitle }">Hiiii Ganesh!!</p>
+              <p class="${ styles.subTitle }">Hiiii Ganesh!! Kumar</p>
               <p class="${ styles.description }">${escape(this.properties.description)}</p>
               <a href="https://aka.ms/spfx" class="${ styles.button }">
                 <span class="${ styles.label }">Learn more</span>
